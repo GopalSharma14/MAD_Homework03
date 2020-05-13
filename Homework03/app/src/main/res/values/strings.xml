@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Homework03</string>
+    <string name="CurrentCity">Current city not set yet</string>
+    <string name="SetCity">Set Current city</string>
+    <string name="CityName">City Name</string>
+    <string name="Country">Country</string>
+    <string name="SearchCity">Search city</string>
+    <string name="Footer">There are no cities to display.\n Search the city from the search box and\n save.</string>
+    <string name="EnnterCity">Enter City name</string>
+    <string name="EnterCountry">Enter Country name</string>
+    <string name="OK">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Day">Day</string>
+    <string name="Night">Night</string>
+    <string name="Click">Click here for more details</string>
+    <string name="Save">Save city</string>
+    <string name="SetAsCurrent">Set as current</string>
+    <string name="EnterDetails">Enter City Details</string>
+</resources>
